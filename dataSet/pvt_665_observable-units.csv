@@ -1,0 +1,15 @@
+cycle,Protoss Arbiter,Protoss Arbiter Tribunal,Protoss Archon,Protoss Assimilator,Protoss Carrier,Protoss Citadel of Adun,Protoss Corsair,Protoss Cybernetics Core,Protoss Dark Archon,Protoss Dark Templar,Protoss Dragoon,Protoss Fleet Beacon,Protoss Forge,Protoss Gateway,Protoss High Templar,Protoss Interceptor,Protoss Nexus,Protoss Observatory,Protoss Observer,Protoss Photon Cannon,Protoss Probe,Protoss Pylon,Protoss Reaver,Protoss Robotics Facility,Protoss Robotics Support Bay,Protoss Scarab,Protoss Scout,Protoss Shield Battery,Protoss Shuttle,Protoss Stargate,Protoss Templar Archives,Protoss Zealot
+720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+1440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0
+2160,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0
+2880,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,12,1,0,0,0,0,0,0,0,0,0,0
+3600,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,14,2,0,0,0,0,0,0,0,0,0,0
+4320,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,16,2,0,0,0,0,0,0,0,0,0,0
+5040,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,18,2,0,1,0,0,0,0,0,0,0,0
+5760,0,0,0,1,0,0,0,1,0,0,1,0,0,2,0,0,1,1,0,0,20,3,0,1,0,0,0,0,0,0,0,0
+6480,0,0,0,1,0,0,0,1,0,0,2,0,0,2,0,0,1,1,0,0,21,4,0,1,0,0,0,0,0,0,0,0
+7200,0,0,0,1,0,0,0,1,0,0,3,0,0,2,0,0,1,1,1,0,23,5,0,1,0,0,0,0,0,0,0,0
+7920,0,0,0,1,0,0,0,1,0,0,5,0,0,2,0,0,1,1,2,0,24,5,0,1,0,0,0,0,0,0,0,0
+8640,0,0,0,1,0,0,0,1,0,0,6,0,0,2,0,0,1,1,2,0,26,5,0,1,0,0,0,0,0,0,0,0
+9360,0,0,0,1,0,0,0,1,0,0,8,0,0,2,0,0,2,1,2,0,27,6,0,1,0,0,0,0,0,0,0,0
+10080,0,0,0,1,0,0,0,1,0,0,8,0,0,3,0,0,2,1,2,0,27,7,0,1,0,0,0,0,1,0,0,1
